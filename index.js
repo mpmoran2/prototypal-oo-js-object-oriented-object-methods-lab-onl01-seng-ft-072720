@@ -6,6 +6,7 @@ function BoardMember (name, homeState, training) {
 }
 // Add following methods to the class:
 // - `veto` — returns `No, I must disagree`
+BoardMember.prototype.veto
 
 // - `approve` — returns `You can do that!`
 
