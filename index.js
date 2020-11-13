@@ -12,20 +12,20 @@ BoardMember.prototype.veto = function() {
 
 // - `approve` — returns `You can do that!`
 BoardMember.prototype.approve = function() {
-  
+  return `You can do that!`
 }
 
 // - `doCharity` — returns `I like to help people.`
 BoardMember.prototype.doCharity = function() {
-  
+  return `I like to help people.`
 }
 
 // - `releasePressStatement` — returns `You will see great things from Scuber.`
 BoardMember.prototype.releasePressStatement = function() {
-  
+  return `You will see great things from Scuber.`
 }
 
 // - `sayHi` — returns `"Hi, my name is <name>. I am from <homestate>, and I was trained in <training>.`
 BoardMember.prototype.sayHi = function() {
-  
+  returns `"Hi, my name is <name>. I am from <homestate>, and I was trained in <training>.`
 }
