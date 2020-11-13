@@ -11,9 +11,21 @@ BoardMember.prototype.veto = function() {
 }
 
 // - `approve` — returns `You can do that!`
+BoardMember.prototype.approve = function() {
+  
+}
 
 // - `doCharity` — returns `I like to help people.`
+BoardMember.prototype.doCharity = function() {
+  
+}
 
 // - `releasePressStatement` — returns `You will see great things from Scuber.`
+BoardMember.prototype.releasePressStatement = function() {
+  
+}
 
 // - `sayHi` — returns `"Hi, my name is <name>. I am from <homestate>, and I was trained in <training>.`
+BoardMember.prototype.sayHi = function() {
+  
+}
